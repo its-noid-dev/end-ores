@@ -35,5 +35,4 @@ To launch the development client instead, run:
 ## Modrinth
 
 Upload the built jar from `build/libs/` as a NeoForge file for Minecraft 1.21.1.
-The jar is built locally; publishing it to Modrinth requires uploading it to
-your project there.
+The jar is built locally.
