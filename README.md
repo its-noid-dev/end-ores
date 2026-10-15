@@ -1,8 +1,6 @@
 # Minecraft: End Ores
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. End Ores brings rare
-End ore, smeltable End Ingots, and a set of powerful tools to Minecraft.
-
+Cool mod for Minecraft made my NoidDEV for PIXL
 ## Features
 
 - Find rare End Ore in the End.
