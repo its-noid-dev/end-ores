@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraftendores:block/end_ore"
+    }
+  }
+}

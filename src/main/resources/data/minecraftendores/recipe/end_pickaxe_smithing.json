@@ -1,0 +1,12 @@
+{
+  "type": "minecraftendores:end_smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "minecraftendores:end_ingot"
+  },
+  "result": {
+    "id": "minecraftendores:end_pickaxe"
+  }
+}

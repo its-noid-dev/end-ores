@@ -1,0 +1,10 @@
+{
+  "block.minecraftendores.end_ore": "End Ore",
+  "item.minecraftendores.end_ingot": "End Ingot",
+  "item.minecraftendores.end_sword": "End Sword",
+  "item.minecraftendores.end_pickaxe": "End Pickaxe",
+  "item.minecraftendores.end_axe": "End Axe",
+  "item.minecraftendores.end_shovel": "End Shovel",
+  "item.minecraftendores.end_hoe": "End Hoe",
+  "itemGroup.minecraftendores.end_ores": "End Ores"
+}
