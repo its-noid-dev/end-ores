@@ -55,6 +55,7 @@ public class MinecraftEndores {
     public MinecraftEndores(IEventBus modEventBus, ModContainer modContainer) {
         ModItems.ITEMS.register(modEventBus);
         ModBlocks.BLOCKS.register(modEventBus);
+        EndOreSurfaceFeature.FEATURES.register(modEventBus);
         ModRecipes.SERIALIZERS.register(modEventBus);
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);

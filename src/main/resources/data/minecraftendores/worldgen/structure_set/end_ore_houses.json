@@ -1,0 +1,15 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 17931427,
+    "separation": 1,
+    "spacing": 2,
+    "spread_type": "linear"
+  },
+  "structures": [
+    {
+      "structure": "minecraftendores:end_ore_house",
+      "weight": 1
+    }
+  ]
+}

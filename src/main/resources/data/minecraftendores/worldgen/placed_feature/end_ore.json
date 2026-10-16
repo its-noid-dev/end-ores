@@ -2,23 +2,15 @@
   "feature": "minecraftendores:end_ore",
   "placement": [
     {
-      "type": "minecraft:rarity_filter",
-      "chance": 8
+      "type": "minecraft:count",
+      "count": 16
     },
     {
       "type": "minecraft:in_square"
     },
     {
-      "type": "minecraft:height_range",
-      "height": {
-        "type": "minecraft:uniform",
-        "min_inclusive": {
-          "absolute": 0
-        },
-        "max_inclusive": {
-          "absolute": 100
-        }
-      }
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
     },
     {
       "type": "minecraft:biome"

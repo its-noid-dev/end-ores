@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraftendores:end_axe",
+    "minecraftendores:end_hoe",
+    "minecraftendores:end_pickaxe",
+    "minecraftendores:end_shovel"
+  ]
+}
