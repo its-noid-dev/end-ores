@@ -1,5 +1,7 @@
 # Minecraft: End Ores
 
+<img width="1679" height="1049" alt="Schermafbeelding 2026-10-15 204444" src="https://github.com/user-attachments/assets/59de2a78-b300-4334-87f1-acedcc1c8820" />
+
 End Ores is a mod for Minecraft made by NoidDEV for PIXL. It adds plentiful
 surface End Ore, smeltable End Ingots, and a set of powerful tools.
 ## Features
